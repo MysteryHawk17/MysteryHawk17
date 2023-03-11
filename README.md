@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h1 align="center">Hi 👋, I'm Vishesh Dadhich</h1>
 <h3 align="center">A passionate Full Stack developer and an open source contributer</h3>
 
 
