@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **React, Node Js, AWS **
+- 💬 Ask me about **React, Node Js, AWS ,NextJS**
 
 - 📫 How to reach me 
     - <a href="https://www.linkedin.com/in/gyanendra-tiwari-9278b0228/" target="_blank"> **Linkedin** </a>
